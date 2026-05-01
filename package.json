@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/siv-sys/MVC_node/issues"
   },
-  "homepage": "https://github.com/siv-sys/MVC_node#readme"
+  "homepage": "https://github.com/siv-sys/MVC_node#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "rout": "^1.0.1"
+  }
 }
